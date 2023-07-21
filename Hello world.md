@@ -1,8 +1,11 @@
-Hello World
+# First file of version control
 
+## Text Selection
 *Italics.*
 
 **Bold**
+
+## Lists
 
 * First element
 * Second element
@@ -12,5 +15,3 @@ Hello World
 2. Second numbers element
 3. Third numbers elements
 
-
-Getting started with version control
