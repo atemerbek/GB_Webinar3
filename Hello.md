@@ -39,3 +39,7 @@ Git add
 
 ### Работа с картинками и ссылками
 
+Для того, чтобы добавить картинку, необходимо: ![Picture](https://pbs.twimg.com/media/EbgCRA3X0AA0c4K?format=jpg&name=medium) 
+
+Для того, чтобы добавить ссылку, необходимо: [Work with MarkDown](https://devric.github.io/articles/markdown-syntax/)
+
