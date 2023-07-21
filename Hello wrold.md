@@ -1,3 +1,5 @@
 Hello World
 
-Начинаем знакомство с контролем версий
+*Italics.*
+
+Getting started with version control
